@@ -1,4 +1,4 @@
-package com.example.virtualmind.model;
+package com.example.app.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

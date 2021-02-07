@@ -1,6 +1,6 @@
-package com.example.virtualmind.model;
+package com.example.app.model;
 
-import com.example.virtualmind.dto.TopicDTO;
+import com.example.app.dto.TopicDTO;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;

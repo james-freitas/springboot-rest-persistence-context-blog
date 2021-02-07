@@ -1,7 +1,7 @@
-package com.example.virtualmind.service;
+package com.example.app.service;
 
-import com.example.virtualmind.dto.TopicDTO;
-import com.example.virtualmind.model.Topic;
+import com.example.app.dto.TopicDTO;
+import com.example.app.model.Topic;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.example.virtualmind.dto;
+package com.example.app.dto;
 
 public class TopicDTO {
 

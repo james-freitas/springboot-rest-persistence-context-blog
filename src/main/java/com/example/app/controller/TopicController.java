@@ -1,7 +1,7 @@
-package com.example.virtualmind.controller;
+package com.example.app.controller;
 
-import com.example.virtualmind.dto.TopicDTO;
-import com.example.virtualmind.service.TopicService;
+import com.example.app.dto.TopicDTO;
+import com.example.app.service.TopicService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PutMapping;
